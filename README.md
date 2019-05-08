@@ -3,6 +3,8 @@ Final project for course MAE 5180 in Cornell University
 
 The detailed description can be found in FinalCompetition2019_4cred.pdf
 
+
+
 Here's the videos showing the running of the code on Icreate Robot:
 
 Simulator run:
