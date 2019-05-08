@@ -3,7 +3,8 @@ The detailed description can be found in FinalCompetition2019_4cred.pdf
 
 Here's the videos showing the running of the code on Icreate Robot:
 
-Simulator run:
+Simulation run:
+
 [![Alt text](https://img.youtube.com/vi/v7GNAI0_Bng/0.jpg)](https://www.youtube.com/watch?v=v7GNAI0_Bng&t=3s)
 
 Actual run:
