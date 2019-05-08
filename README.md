@@ -19,6 +19,6 @@ The code can be runned on the simulator, the process of running it is that:
 
 1. Run SimulatorGUI.m, in the window showed below, click the botton 'Load map' and choose 'CompMap.txt', click 'Load Config' and choose 'noise.txt'
 
-<img src="https://user-images.githubusercontent.com//25992217/57348704-14e82e80-7125-11e9-95d4-c28c2d2c6fa5.png" width="400" height="300"> 
+<img src="https://user-images.githubusercontent.com/25992217/57349288-888b3b00-7127-11e9-89aa-5d86aa885766.png" width="400" height="300"> 
 
 2. Set position at any small square, facing the right wall and click 'Start', choose 'finalCompetition.m' and ti would begin running.
