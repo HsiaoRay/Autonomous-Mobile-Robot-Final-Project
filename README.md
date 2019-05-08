@@ -19,4 +19,7 @@ The code can be runned on the simulator, the process of running it is that:
 
 <img src="https://user-images.githubusercontent.com/25992217/57349288-888b3b00-7127-11e9-89aa-5d86aa885766.png" width="600" height="400"> 
 
-2. Set position at any small square, facing the right wall and click 'Start', choose 'finalCompetition.m' and it would begin running.
+2. Set position at any small square, facing the right wall and click 'Start', choose 'finalCompetition.m' and it would begin running. Here's a demo showing the result of running:
+
+<img src="https://user-images.githubusercontent.com/25992217/57350056-9098aa00-712a-11e9-93b3-667d085f9eeb.png" width="400" height="400"> 
+
