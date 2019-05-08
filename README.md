@@ -9,7 +9,6 @@ Here's the videos showing the running of the code on Icreate Robot:
 
   Actual run:
 
-  [![Alt text](https://img.youtube.com/vi/b-WA-1NGDR0/0.jpg)](https://www.youtube.com/watch?v=b-WA-1NGDR0&t=2s)
   [![Alt text](https://img.youtube.com/vi/VbFSmVNJm8U/0.jpg)](https://www.youtube.com/watch?v=VbFSmVNJm8U&t=1s)
 
 
