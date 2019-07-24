@@ -3,20 +3,20 @@ Autonomous-Mobile-Robot
 
 The detailed description can be found in FinalCompetition2019_4cred.pdf
 
-*Here's the videos showing the running of the code on Icreate Robot:
+>Here's the videos showing the running of the code on Icreate Robot:
 
-Simulation run:
+>>Simulation run:
 
   [![Alt text](https://img.youtube.com/vi/v7GNAI0_Bng/0.jpg)](https://www.youtube.com/watch?v=v7GNAI0_Bng&t=3s)
 
-Actual run:
+>>Actual run:
 
   [![Alt text](https://img.youtube.com/vi/VbFSmVNJm8U/0.jpg)](https://www.youtube.com/watch?v=VbFSmVNJm8U&t=1s)
 
 
-*About running the code:
+>About running the code:
 
-  The code can be runned on the simulator, the process of running it is that:
+  >>The code can be runned on the simulator, the process of running it is that:
 
   1. Run SimulatorGUI.m, in the window showed below, click the botton 'Load map' and choose 'CompMap.txt' (If you want to add noise to the run, click 'Load Config' and choose 'noise.txt')
 
