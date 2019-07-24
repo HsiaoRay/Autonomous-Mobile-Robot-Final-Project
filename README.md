@@ -1,16 +1,16 @@
 Autonomous-Mobile-Robot
 ===========================
 
-The detailed description can be found in FinalCompetition2019_4cred.pdf
+ The detailed description can be found in FinalCompetition2019_4cred.pdf
 
 Here's the videos showing the running of the code on Icreate Robot:
 ------------------
 
-Simulation run:
+ Simulation run:
 
  [![Alt text](https://img.youtube.com/vi/v7GNAI0_Bng/0.jpg)](https://www.youtube.com/watch?v=v7GNAI0_Bng&t=3s)
 
-Actual run:
+ Actual run:
 
  [![Alt text](https://img.youtube.com/vi/VbFSmVNJm8U/0.jpg)](https://www.youtube.com/watch?v=VbFSmVNJm8U&t=1s)
 
