@@ -6,11 +6,11 @@ Autonomous-Mobile-Robot
 Here's the videos showing the running of the code on Icreate Robot:
 ------------------
 
- Simulation run:
+ 1. Simulation run:
 
  [![Alt text](https://img.youtube.com/vi/v7GNAI0_Bng/0.jpg)](https://www.youtube.com/watch?v=v7GNAI0_Bng&t=3s)
 
- Actual run:
+ 2. Actual run:
 
  [![Alt text](https://img.youtube.com/vi/VbFSmVNJm8U/0.jpg)](https://www.youtube.com/watch?v=VbFSmVNJm8U&t=1s)
 
