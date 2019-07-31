@@ -16,7 +16,7 @@ Here's the videos showing the running of the code on Icreate Robot:
 -----------------------
  2. Actual run:
 
- <div align=center> [![Alt text](https://img.youtube.com/vi/VbFSmVNJm8U/0.jpg)](https://www.youtube.com/watch?v=VbFSmVNJm8U&t=1s) </div>
+  [<div align=center>![Alt text](https://img.youtube.com/vi/VbFSmVNJm8U/0.jpg)</div>](https://www.youtube.com/watch?v=VbFSmVNJm8U&t=1s) 
 
 
 About running the code:
