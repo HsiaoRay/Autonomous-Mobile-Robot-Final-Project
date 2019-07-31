@@ -11,7 +11,7 @@ Here's the videos showing the running of the code on Icreate Robot:
 ------------------
  1. Simulation run:
 
-<div align=center> [![Alt text](https://img.youtube.com/vi/v7GNAI0_Bng/0.jpg)](https://www.youtube.com/watch?v=v7GNAI0_Bng&t=3s) </div>
+[<div align=center> ![Alt text](https://img.youtube.com/vi/v7GNAI0_Bng/0.jpg)</div>](https://www.youtube.com/watch?v=v7GNAI0_Bng&t=3s) 
    
 -----------------------
  2. Actual run:
